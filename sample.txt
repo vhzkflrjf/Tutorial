@@ -1,2 +1,3 @@
 A is B
 Is it real world?
+pull 원격 저장소의 내용을 가져오기
