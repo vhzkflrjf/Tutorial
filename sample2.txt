@@ -1,2 +1,4 @@
 user2가 만듬
 sample2.txt 시작
+
+master가 sample2 병햡
