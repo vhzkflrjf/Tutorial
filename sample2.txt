@@ -4,3 +4,4 @@ sample2.txt 시작
 master가 sample2 병합
 
 NewOne 시작
+NewOne 진행
