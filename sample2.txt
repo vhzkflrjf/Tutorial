@@ -1,1 +1,2 @@
+user2가 만듬
 sample2.txt 시작
