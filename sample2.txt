@@ -7,10 +7,6 @@ master는 일단 진행
 NewOne 시작
 NewOne 진행
 
-<<<<<<< HEAD
 tag 설정
 
 revert 테스트
-=======
-tag 설정
->>>>>>> 91f30f03250fec6885b6d1a0f9304c28042dfa0a
