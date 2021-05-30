@@ -17,3 +17,9 @@ Git sample3 started
 saturday
 
 니가 오리지널이라고
+=======
+tag 설정
+
+
+새브랜치 시작
+>>>>>>> new_blue
